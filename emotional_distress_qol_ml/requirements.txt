@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+imbalanced-learn>=0.12
+matplotlib>=3.9
+joblib>=1.4
+scipy>=1.13
+# Optional; the code skips if not present:
+xgboost>=2.0
+lightgbm>=4.3
+shap>=0.46
